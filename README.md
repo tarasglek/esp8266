@@ -1,4 +1,4 @@
-Pings an http url when my mailbox is opened https://plus.google.com/+TarasGlek/posts/KQGkqhaM571
+Pings a url when my mailbox is opened https://plus.google.com/+TarasGlek/posts/KQGkqhaM571
 
 
 ./nodemcu-uploader.py --port /dev/ttyAMA0 upload init.lua pingonpower.lua
